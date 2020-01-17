@@ -1,0 +1,9 @@
+echo "# My-first-Git" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Nofargit/Project.git
+git push -u origin master
+
+ls
+cd
